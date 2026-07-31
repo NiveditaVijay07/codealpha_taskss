@@ -75,3 +75,7 @@ Include screenshots of:
 ## 👩‍💻 Author
 
 Nivedita Vijay
+<img width="1278" height="210" alt="Image" src="https://github.com/user-attachments/assets/c76c626d-1f1a-4cea-a7bf-8c3a8223a6f2" />
+<img width="774" height="708" alt="Image" src="https://github.com/user-attachments/assets/1740a18f-b160-4a2d-b676-b9a9a061f3e7" />
+<img width="811" height="633" alt="Image" src="https://github.com/user-attachments/assets/1edc87e8-5482-4fc3-aaf9-eb05498b6fd1" />
+<img width="828" height="105" alt="Image" src="https://github.com/user-attachments/assets/3975ad2f-29bb-4be1-bc27-c14f8cd3c22b" />
